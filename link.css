@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#hi{
+    height: 500px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid white;
+    background-color: lightcoral;
+}
+header{
+    background-color: gray;
+    background-color: white;
+    margin-top: 30px;
+}
+#hello{
+height: 450px;
+width: 450px;
+border: 2px solid white;
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: lightblue;
+}
+#oo{
+  height: 400px;
+  width: 400px;  
+  position: absolute;
+  border: 2px solid white;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ background-color: lightgreen;
+}
+#pp{
+    height: 350px;
+    width: 350px;
+    border: 2px solid white;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ background-color: lightpink;
+}
+#qq{
+    height: 300px;
+    width: 300px;
+    border: 2px solid white;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ background-color: lightskyblue;
+}
+#ww{
+    height: 250px;
+    width: 250px;
+    border: 2px solid white;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ background-color: lightyellow;
+}
+#ee{
+    height: 200px;
+    width: 200px;
+    border: 2px solid white;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ background-color: lightsalmon;
+}
+#rr{
+    height: 150px;
+    width: 150px;
+    border: 2px solid white;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ background-color: lightcoral;
+}
+#tt{
+    height: 100px;
+    width:100px;
+    border: 2px solid white;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ background-color: lightgoldenrodyellow;
+}
+#yy{
+    height: 50px;
+    width: 50px;
+    border: 2px solid white;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ background-color: black;
+}
